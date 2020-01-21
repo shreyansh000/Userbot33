@@ -17,7 +17,7 @@ async def _(event):
 
     animation_ttl = range(0, 11)
 
-    input_str = event.pattern_match.group(1)
+    input_str = str(input("hack likh bsdk"))
 
     if input_str == "hack":
 
