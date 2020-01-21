@@ -19,7 +19,7 @@ async def _(event):
     animation_ttl = range(0, 11)
 
     
-     input_str == "hack":
+    input_str == "hack":
 
         await event.edit(input_str)
 
